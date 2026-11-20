@@ -1,0 +1,3 @@
+stations=1, readings=8,760, groups=365, loops=0.0308s, pandas=0.0304s, SQL_query_only=0.0055s, all_agree=True
+stations=12, readings=105,120, groups=4,380, loops=0.2331s, pandas=0.0405s, SQL_query_only=0.0778s, all_agree=True
+stations=120, readings=1,051,200, groups=43,800, loops=2.3139s, pandas=0.2928s, SQL_query_only=0.6463s, all_agree=True

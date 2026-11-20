@@ -1,0 +1,25 @@
+         70159 function calls in 0.042 seconds
+
+   Ordered by: cumulative time
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        1    0.011    0.011    0.042    0.042 C:\D - Drive   Personal Files\python programming\assignment 5\CSA08_Assignment5_Package\Task08_B3\b3_loops_pandas_sql.py:29(loops_csv)
+     8761    0.015    0.000    0.026    0.000 C:\Program Files\Python315\Lib\csv.py:171(__next__)
+     8762    0.007    0.000    0.007    0.000 {built-in method builtins.next}
+    17520    0.004    0.000    0.004    0.000 {method 'get' of 'dict' objects}
+    17521    0.003    0.000    0.003    0.000 C:\Program Files\Python315\Lib\csv.py:157(fieldnames)
+    17520    0.002    0.000    0.002    0.000 {built-in method builtins.len}
+        1    0.000    0.000    0.000    0.000 {built-in method _io.open}
+        1    0.000    0.000    0.000    0.000 {method 'disable' of '_lsprof.Profiler' objects}
+       32    0.000    0.000    0.000    0.000 <frozen codecs>:322(decode)
+        1    0.000    0.000    0.000    0.000 {method '__exit__' of '_io._IOBase' objects}
+       32    0.000    0.000    0.000    0.000 {built-in method _codecs.utf_8_decode}
+        1    0.000    0.000    0.000    0.000 C:\Program Files\Python315\Lib\csv.py:143(__init__)
+        1    0.000    0.000    0.000    0.000 {built-in method _csv.reader}
+        1    0.000    0.000    0.000    0.000 <frozen codecs>:312(__init__)
+        1    0.000    0.000    0.000    0.000 {method '__enter__' of '_io._IOBase' objects}
+        1    0.000    0.000    0.000    0.000 C:\Program Files\Python315\Lib\pathlib\__init__.py:251(__str__)
+        1    0.000    0.000    0.000    0.000 <frozen codecs>:263(__init__)
+        1    0.000    0.000    0.000    0.000 C:\Program Files\Python315\Lib\csv.py:154(__iter__)
+
+
