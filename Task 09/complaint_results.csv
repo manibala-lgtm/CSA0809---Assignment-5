@@ -1,0 +1,51 @@
+complaint,human_label,model_label,extractive_summary
+The road air is clean and the buses are fast.,positive,positive,The road air is clean and the buses are fast.
+Factory smoke makes the neighbourhood dirty.,negative,negative,Factory smoke makes the neighbourhood dirty.
+The response team was helpful and fast.,positive,positive,The response team was helpful and fast.
+The monitoring station is broken and slow.,negative,negative,The monitoring station is broken and slow.
+Air quality improved near the park.,positive,positive,Air quality improved near the park.
+The street is dirty because of smoke.,negative,negative,The street is dirty because of smoke.
+The new bus service is good.,positive,positive,The new bus service is good.
+The complaint staff were rude.,negative,negative,The complaint staff were rude.
+The area is clean today.,positive,positive,The area is clean today.
+The sensor is broken and gives bad readings.,negative,negative,The sensor is broken and gives bad readings.
+The response was not helpful.,negative,negative,The response was not helpful.
+The air is not bad near the lake.,positive,positive,The air is not bad near the lake.
+Traffic smoke is making the air dirty.,negative,negative,Traffic smoke is making the air dirty.
+The new filter improved air quality.,positive,positive,The new filter improved air quality.
+The service is slow and the staff are rude.,negative,negative,The service is slow and the staff are rude.
+The park is clean but traffic is bad.,negative,neutral,The park is clean but traffic is bad.
+The bus is fast and helpful.,positive,positive,The bus is fast and helpful.
+The factory smoke is bad.,negative,negative,The factory smoke is bad.
+The monitoring service improved.,positive,positive,The monitoring service improved.
+The road is dirty and broken.,negative,negative,The road is dirty and broken.
+Air quality is good near the school.,positive,positive,Air quality is good near the school.
+The sensor response is slow.,negative,negative,The sensor response is slow.
+The staff were helpful.,positive,positive,The staff were helpful.
+Smoke levels are high and the air is bad.,negative,negative,Smoke levels are high and the air is bad.
+The new system is fast and clean.,positive,positive,The new system is fast and clean.
+The complaint was ignored and the service is rude.,negative,negative,The complaint was ignored and the service is rude.
+The air has improved after traffic control.,positive,positive,The air has improved after traffic control.
+The road is not clean.,negative,negative,The road is not clean.
+The station gives good updates.,positive,positive,The station gives good updates.
+The factory releases smoke every evening.,negative,negative,The factory releases smoke every evening.
+The bus is not slow today.,positive,positive,The bus is not slow today.
+The air is dirty near the market.,negative,negative,The air is dirty near the market.
+The response team is good and helpful.,positive,positive,The response team is good and helpful.
+The sensor is not broken.,positive,positive,The sensor is not broken.
+The area has bad smoke and dirty roads.,negative,negative,The area has bad smoke and dirty roads.
+The clean-up work improved the street.,positive,positive,The clean-up work improved the street.
+The service is bad but the staff are helpful.,neutral,neutral,The service is bad but the staff are helpful.
+The air is good but traffic is slow.,neutral,neutral,The air is good but traffic is slow.
+No improvement in the dirty air.,negative,negative,No improvement in the dirty air.
+The station is fast and reliable.,positive,positive,The station is fast and reliable.
+The complaint process is slow.,negative,negative,The complaint process is slow.
+The park air is clean.,positive,positive,The park air is clean.
+The factory smoke is not good.,negative,negative,The factory smoke is not good.
+The new service is helpful.,positive,positive,The new service is helpful.
+The readings are broken and the display is slow.,negative,negative,The readings are broken and the display is slow.
+The air is not dirty near the coast.,positive,positive,The air is not dirty near the coast.
+The road is clean but the bus is slow.,neutral,neutral,The road is clean but the bus is slow.
+The station update is improved.,positive,positive,The station update is improved.
+Smoke is bad for the neighbourhood.,negative,negative,Smoke is bad for the neighbourhood.
+The team was helpful but the air remains dirty.,negative,neutral,The team was helpful but the air remains dirty.
